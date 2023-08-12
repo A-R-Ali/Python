@@ -1,4 +1,7 @@
+#Getting Ready for Physic's class
+
 # Uncomment this when you reach the "Use the Force" section
+
 train_mass = 22680
 train_acceleration = 10
 train_distance = 100
