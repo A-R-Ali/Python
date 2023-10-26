@@ -1,4 +1,4 @@
-# Prompt the user for hours and rate per hour
+# Prompt the user for weight and height
 weight = input("Enter weight: ")
 height = input("Enter height in Meters: ")
 
@@ -6,7 +6,7 @@ height = input("Enter height in Meters: ")
 weight = float(weight)
 height = float(height)
 
-# Calculate gross pay
+# Calculate BMI
 BMI= weight/height**2
 
 # Display the result
